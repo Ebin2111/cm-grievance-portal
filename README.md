@@ -4,9 +4,9 @@ A working prototype of a Chief Minister's public grievance redressal portal, bui
 
 > **Disclaimer:** recruitment prototype only. Not affiliated with or endorsed by the Government of Kerala or the Chief Minister's Office. All data is fictional; do not submit real grievances.
 
-- **Hosted app:** `<add your Vercel URL here>`
-- **API:** `<add your Render URL here>/health`
-- **Demo video:** `<add link>`
+- **Hosted app:** `https://cm-grievance-portal.vercel.app/`
+- **API:** `https://cm-grievance-portal.onrender.com/health`
+- **Demo video:** `https://drive.google.com/file/d/18ER2Zum0jaejyx_uJgsOXA5wGPTYBVLh/view?usp=drivesdk`
 
 ## Stack
 Next.js 14 (React, TypeScript, Tailwind, Recharts) · Node.js + Express · PostgreSQL (`pg`) · JWT + role-based access · Gemini / Claude LLM API with a labelled rule-based fallback.
